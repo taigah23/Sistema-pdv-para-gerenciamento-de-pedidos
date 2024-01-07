@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema-pdv-gerenciamento-de-pedidos", "Sistema-pdv-gerenciamento-de-pedidos.csproj", "{D458A9F2-8A67-4755-9D53-25DB247AC9DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D458A9F2-8A67-4755-9D53-25DB247AC9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D458A9F2-8A67-4755-9D53-25DB247AC9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D458A9F2-8A67-4755-9D53-25DB247AC9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D458A9F2-8A67-4755-9D53-25DB247AC9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95C665BA-9CB9-4C11-A5F8-42E88CDB36A8}
+	EndGlobalSection
+EndGlobal
